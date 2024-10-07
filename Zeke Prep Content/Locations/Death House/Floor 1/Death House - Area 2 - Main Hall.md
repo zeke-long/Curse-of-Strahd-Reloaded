@@ -5,7 +5,7 @@ A cloakroom on the back wall houses several long dark cloaks and a top hat.*
 ^WhatToRead
 
 ## Encounter
-A DC 12 Perception Check: will show that serpents and skulls are woven into the wall designs. They will also observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
+A DC 12 Perception Check in the Main Hall: will show that serpents and skulls are woven into the wall designs. They will also observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
 
 <div class="description" style="text-align:center; padding: 15px;">
 You are cordially invited to join 

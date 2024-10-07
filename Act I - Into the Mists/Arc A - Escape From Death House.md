@@ -166,27 +166,7 @@ A player who opens any outside-facing door or curtain in Death House, or who exi
 ## A2b. The First Floor
 ### Cloakroom
 <span class="citation"><em>This scene takes place in Appendix B: Area 2.</em></span>
-
-A player who investigates the cloakroom adjoining the Main Hall can observe an envelope poking from the pocket of one of the cloaks. The envelope, which is addressed to Lady Lovina Wachter, contains an invitation. It reads:
-
-<div class="description" style="text-align:center; padding: 15px;">
-You are cordially invited to join 
-<div style="height: 3px;"></div>
-<strong>MR. GUSTAV & ELISABETH DURST</strong>
-<div style="height: 3px;"></div>
-for a celebration of the one-year anniversary of the Durst Mill.
-<div style="height: 3px;"></div>
-<strong><em>The Durst Residence, Barovia Village</em></strong>
-<div style="height: 3px;"></div>
-6 o'clock p.m.
-<br>
-13 Neyavr, 348
-<div style="height: 3px;"></div>
-<em>Dinner and refreshments to be served.</em>
-</div>
-
-![[Durst Invitation.jpg]]
-<span class="credit">"Durst Invitation" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+![[Death House - Area 2 - Main Hall#Encounter]]
 
 ### Den of Wolves
 <span class="citation"><em>This scene takes place in Appendix B: Area 3.</em></span>
