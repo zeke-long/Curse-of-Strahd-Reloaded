@@ -49,6 +49,8 @@ Finally, the judge reaches the more significant items—the estate and the real 
 
 The ceremony concludes with the judge calling forth a final few names—the ranger and Tiefling included—each left with something far more ambiguous than the others: 
 
+"For March's Character: `dice: `"
+
 * ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
 * ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
 * ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.

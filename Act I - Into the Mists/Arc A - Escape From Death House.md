@@ -49,6 +49,16 @@ When the players have finished introducing themselves, read:
 
 One by one, the players’ relics then react as follows, in the following order.
 
+| d12 | Treasure                                                                                                                                   |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Nothing                                                                                                                                    |
+| 2   | Sack of 100 ep                                                                                                                             |
+| 3   | Pouch containing `dice: 4d6` (4d6) gemstones worth 100 gp each                                                                             |
+| 4   | Sack containing `dice: 3d6` (3d6) pieces of cheap jewelry worth 25 gp total and `dice: 1d6` (1d6) pieces of fine jewelry worth 250 gp each |
+| 20  | One Magic Item from [[Magic Item Table]] #TODO                                                                                             |
+|     |                                                                                                                                            |
+|     |                                                                                                                                            |
+
 * ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
 * ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
 * ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
