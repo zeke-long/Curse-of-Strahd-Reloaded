@@ -63,21 +63,39 @@ You can practically _feel_ the atmosphere shift as people start making their way
 
 _Department_: **Enchantments & Linguistics**  
 _Description_: A spry, elderly gnome with a shock of white hair that bounces like a cloud when she walks. Professor Thistledown is the resident expert in enchanting everyday objects and deciphering ancient magical scripts. She’s always impeccably dressed in layers of flowing silk robes, glittering with faintly glowing runes that change color based on her mood. Despite her tiny stature, she commands attention with a piercing voice and a sharp wit. She has a habit of unconsciously tracing arcane sigils in the air while she talks, as if her fingers can’t resist the urge to cast even when she’s simply making a point.
+_Quirk_: When engaged in conversation, Professor Thistledown will _enchant random objects_ around her without realizing—making quills float, causing chairs to sing, or giving someone’s hat the ability to walk away. It’s harmless, but it’s not uncommon to find a spoon suddenly declaring itself your new best friend if you’re too close to her.
 
 ### 2. **Professor Roderick Vindlebaum**
 
 _Department_: **Transmutation & Culinary Alchemy**  
 _Description_: A rotund human with rosy cheeks and a bushy mustache, Roderick Vindlebaum looks more like a baker than a professor. He teaches the obscure but surprisingly popular course _Magical Feasts and Enchanted Cooking_. Often seen wearing an apron over his formal robes, he’s infamous for his lectures turning into impromptu banquets—complete with transmuted snacks for everyone. He’s carrying a steaming mug of what smells like magically brewed hot cocoa and keeps absentmindedly nibbling on a floating pastry that follows him around, enchanted to refill itself whenever he finishes a bite.
+_Quirk_: He _always_ has food on him—floating plates, miniature enchanted cakes, or self-refilling soup bowls—and insists that others “_simply must_ try this recipe!” He’s obsessed with pairing food and magic, and can be distracted into long rants about his culinary creations, even during serious discussions.
 
 ### 3. **Professor Saria Windwhisper**
 
 _Department_: **Astronomy & Celestial Navigation**  
 _Description_: A graceful elven woman with long, silvery hair that shimmers like starlight. Professor Windwhisper is a master of both celestial navigation and reading the cosmic patterns that influence arcane energy flows. She’s known for her calm, almost ethereal demeanor, and often speaks in a soft, melodic voice that demands focused attention. Her robes are adorned with constellations that subtly shift and change as the stars move across the sky. Even in the brightly lit chamber, her eyes seem to catch every glimmer of light, giving her a dreamy, far-off look as if she’s only partially present on the material plane.
+_Quirk_: Professor Windwhisper has an uncanny ability to _predict things moments before they happen_—not major events, but small details like someone’s sneeze, a glass about to spill, or even what someone will say next. She comments on these predictions almost absentmindedly—“Ah, watch the glass, dear,”—often leaving people unnerved and uncertain whether it’s insight or just luck.
 
 ### 4. **Professor Bartholomew Grimward**
 
 _Department_: **Necrobiology & Applied Hematurgy**  
 _Description_: A gaunt, severe-looking man with slicked-back black hair and a piercing gaze. Professor Grimward specializes in the study of life and death, delving into the borderline fields of necromancy and blood magic (strictly for research purposes, of course). Dressed in stark black robes with crimson trim, he looks more like an undertaker than a scholar, and there’s an unspoken rule among the students not to attend his office hours alone. He rarely speaks above a whisper, but when he does, his words carry a chilling weight. He stands apart from the rest of the attendees, arms folded, watching the proceedings with a detached, clinical interest.
+_Quirk_: Despite his grim demeanor, Grimward has an unexpected _obsession with puns and morbid jokes_. He finds dark humor in everything—“Ah, just another grave situation”—and often leaves students and colleagues baffled by his unexpected levity amid serious discussions. He never smiles, though, so it’s impossible to tell if he’s joking or serious.
+- **"Life is a _grave_ matter, but I always try to keep it _light_—you know, for _undead_ spirits!"**
+- **"People say I’m a _bit morbid_, but I like to think of it as having a _healthy curiosity_ about what lies _beyond_."**
+- **"You know, it’s all about _balance_—too much life or too much death can really throw off your _hematology_!"**
+- **"I once tried to make a _skeleton_ laugh, but I guess I just didn’t have the _guts_!"**
+- **"Necromancy is a _dying art_, but I’m here to make it _revive_—with a little practice, of course!"**
+- **"I always say, if you can’t find the _soul_ of a problem, it’s probably time to _raise_ some questions!"**
+
+- **"Some people think my studies are a little _dead on arrival_, but I find them _thrilling_! It’s like living on the _edge of the grave_!"**
+    
+- **"Ah, the beauty of necromancy—_death_ is just another way of saying you’re not _living_ life to the fullest!"**
+    
+- **"I had a friend who wanted to become a _mummy_, but he just couldn’t handle the _wrapping_!"**
+    
+- **"Remember, my dear students, in the world of magic, sometimes you have to _dig deep_ to uncover the _bones of truth_!"**
 
 ### 5. **Lady Claribel Thorne**
 
