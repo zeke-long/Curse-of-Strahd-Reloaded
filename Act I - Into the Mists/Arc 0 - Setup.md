@@ -57,4 +57,54 @@ You can practically _feel_ the atmosphere shift as people start making their way
 
 "And now I invite you to the celebration", the judge waves his arms and a curtain drops behind him revealing a wide reception hall. 
 
-### After Party
+### After Party Characters
+
+### 1. **Professor Calliope Thistledown**
+
+_Department_: **Enchantments & Linguistics**  
+_Description_: A spry, elderly gnome with a shock of white hair that bounces like a cloud when she walks. Professor Thistledown is the resident expert in enchanting everyday objects and deciphering ancient magical scripts. She’s always impeccably dressed in layers of flowing silk robes, glittering with faintly glowing runes that change color based on her mood. Despite her tiny stature, she commands attention with a piercing voice and a sharp wit. She has a habit of unconsciously tracing arcane sigils in the air while she talks, as if her fingers can’t resist the urge to cast even when she’s simply making a point.
+
+### 2. **Professor Roderick Vindlebaum**
+
+_Department_: **Transmutation & Culinary Alchemy**  
+_Description_: A rotund human with rosy cheeks and a bushy mustache, Roderick Vindlebaum looks more like a baker than a professor. He teaches the obscure but surprisingly popular course _Magical Feasts and Enchanted Cooking_. Often seen wearing an apron over his formal robes, he’s infamous for his lectures turning into impromptu banquets—complete with transmuted snacks for everyone. He’s carrying a steaming mug of what smells like magically brewed hot cocoa and keeps absentmindedly nibbling on a floating pastry that follows him around, enchanted to refill itself whenever he finishes a bite.
+
+### 3. **Professor Saria Windwhisper**
+
+_Department_: **Astronomy & Celestial Navigation**  
+_Description_: A graceful elven woman with long, silvery hair that shimmers like starlight. Professor Windwhisper is a master of both celestial navigation and reading the cosmic patterns that influence arcane energy flows. She’s known for her calm, almost ethereal demeanor, and often speaks in a soft, melodic voice that demands focused attention. Her robes are adorned with constellations that subtly shift and change as the stars move across the sky. Even in the brightly lit chamber, her eyes seem to catch every glimmer of light, giving her a dreamy, far-off look as if she’s only partially present on the material plane.
+
+### 4. **Professor Bartholomew Grimward**
+
+_Department_: **Necrobiology & Applied Hematurgy**  
+_Description_: A gaunt, severe-looking man with slicked-back black hair and a piercing gaze. Professor Grimward specializes in the study of life and death, delving into the borderline fields of necromancy and blood magic (strictly for research purposes, of course). Dressed in stark black robes with crimson trim, he looks more like an undertaker than a scholar, and there’s an unspoken rule among the students not to attend his office hours alone. He rarely speaks above a whisper, but when he does, his words carry a chilling weight. He stands apart from the rest of the attendees, arms folded, watching the proceedings with a detached, clinical interest.
+
+### 5. **Lady Claribel Thorne**
+
+_Role_: **Potion Magnate & Society Matriarch**  
+_Description_: A larger-than-life woman in a vivid, emerald-green gown, Lady Thorne is a force of nature. With a fan of peacock feathers and enough jewelry to buy a small kingdom, she practically radiates power and affluence. Despite her advanced age, her presence is commanding, and she exudes a blend of charisma and menace. She’s infamous for her monopoly over the region’s potion market and for wielding social connections like a knife in the dark. Always eager to involve herself in other people’s affairs, she delights in subtle manipulation and getting what she wants—whether through charm or intimidation.  
+_Quirk_: Speaks in the third person—“Claribel thinks that estate would make _such_ a lovely investment”—giving off an air of theatrical self-importance.
+
+### 6. **Leonard Wispwhittle**
+
+_Role_: **Curator of the Aberford Private Collection**  
+_Description_: A reedy half-elf with a shock of white hair and glasses that magnify his eyes comically, Leonard looks perpetually startled. His clothing is fine but rumpled, and his hands flutter nervously whenever someone mentions the collection. As Aberford’s personal curator, he was responsible for cataloguing and guarding the deceased’s many rare and magical artifacts—an arduous task that clearly frayed his nerves over the years. Leonard has an encyclopedic knowledge of Aberford’s acquisitions, from priceless grimoires to cursed baubles, but he speaks in a distracted, jittery manner, as if afraid one of the relics might suddenly explode.  
+_Quirk_: Constantly mutters to himself, sometimes revealing snippets of information accidentally—“No, no, the _arcane ward_ shouldn’t activate unless… Oh dear, did I remember to lock the vault?”
+
+### 7. **Gideon “The Dapper Duke” Arkwright**
+
+_Role_: **Infamous Gambler & Master of Coin**  
+_Description_: A devilishly handsome human with slick black hair, sharp cheekbones, and a smile that suggests he’s three steps ahead of everyone in the room. Dressed in an immaculately tailored crimson suit, Gideon is the epitome of refined danger. Known throughout the city as a master gambler and financial tactician, he’s as notorious for his high-stakes wins as he is for his subtle manipulations of the city’s wealth. Gideon speaks with a honeyed tongue, making even the most devious proposal sound like an opportunity too good to pass up. He always seems to know more than he should—about you, your friends, and especially your weaknesses.  
+_Quirk_: He idly shuffles a deck of cards during conversations, never looking down, and occasionally pulls out a card that seems _strangely appropriate_ for whomever he’s speaking to.
+
+### 8. **Mistress Helvara Brightsword**
+
+_Role_: **Commander of the City Guard & Aberford’s Former Bodyguard**  
+_Description_: Towering and muscular, Helvara stands out in the well-dressed crowd like a bear at a dinner party. She’s dressed in a gleaming, rune-etched breastplate, the only concession to formality being a dark velvet cloak clasped at her shoulder with a family crest. Her short-cropped hair and stern demeanor make it clear she’s not here to socialize. A former adventurer who became Aberford’s personal bodyguard for a decade, she now serves as Commander of the City Guard—though she still carries the weight of old grudges and secrets. Helvara has a surprisingly dry sense of humor, but very few are brave enough to engage her long enough to see it.  
+_Quirk_: Tends to let others speak first, silently watching with an unsettling intensity before finally weighing in with a single, cutting comment that usually ends the conversation.
+
+### 9. **Barnaby Bilgeworth**
+
+_Role_: **Local Bard & Occasional Cat Burglar**  
+_Description_: A flamboyant gnome with a shock of curly orange hair, a bright patchwork vest, and a wide-brimmed hat adorned with a single, absurdly long feather. Barnaby is equal parts entertainer and rogue, flitting through the room with the grace of a dancer and the mischief of a fox. His nimble fingers are just as skilled at playing the lute as they are at lifting purses, and he seems to know every secret, rumor, and backdoor deal in the city. He has a laugh that’s infectious and a smile that never quite reaches his eyes. Many people know him, but few trust him—if Barnaby’s interested in you, there’s usually trouble close behind.  
+_Quirk_: Frequently bursts into impromptu verse or ballads about the people around him, using his songs to praise, insult, or reveal uncomfortable truths—all with a grin on his face.
