@@ -39,16 +39,27 @@ The judge raps his gavel once, twice, drawing the room’s attention as he leans
 
 The proceedings are as grandiose as they are _tedious_. The ceremony begins with the judge launching into a long-winded tribute to Mister Aberford, a speech that seems to drag on for an eternity. A few people in the crowd roll their eyes; others nod solemnly, pretending not to notice the judge stealing glances at his pocket watch between paragraphs.
 
-After the eulogy, representatives from Aberford’s various philanthropic ventures and research projects each take a turn at the podium, delivering speeches that are more self-congratulatory than reverent. Surprisingly some of the professors from [[Kirryan University]] rise one by one to pay their respects—each showcasing their unique eccentricities. [[Professor Thistledown]]’s tribute somehow ends up as a 10-minute lesson on obscure magical runes; [[Professor Vindlebaum]] whips out a portable grill and starts transmuting appetizers for the crowd, much to the judge’s exasperation. [[Professor Windwhisper]] spends her time lost in an abstract poem about the stars, while Professor Grimward merely nods curtly, offering a terse, “May he rest… for the moment.”
+After the eulogy, representatives from Aberford’s various philanthropic ventures and research projects each take a turn at the podium, delivering speeches that are more self-congratulatory than reverent. Surprisingly some of the professors from [[Kirryan University]] rise one by one to pay their respects—each showcasing their unique eccentricities. [[Professor Thistledown]]’s tribute somehow ends up as a 10-minute lesson on obscure magical runes; [[Professor Vindlebaum]] whips out a portable grill and starts transmuting appetizers for the crowd, much to the judge’s exasperation. [[Professor Windwhisper]] spends her time lost in an abstract poem about the stars, while [[Professor Grimward]] merely nods curtly, offering a terse, “May he rest… for the moment.”
 
-Finally, after what feels like an eternity of speeches, performances, and the occasional awkward cough as the crowd stirs restlessly, the judge steps up to the podium again. He gestures grandly to the stack of scrolls and chests laid out on the table before him, drawing a collective gasp from the audience.
-
-“Now, we come to the reading of Mister Aberford’s _Last Will and Testament_,” he proclaims, clearly relishing the moment. The hush that falls over the room is almost palpable.
+Finally, the judge steps up to the podium again. He gestures to the stack of scrolls and chests laid out on the table before him, drawing a collective gasp from the audience. “Now, we come to the reading of Mister Aberford’s _Last Will and Testament_,” he proclaims. 
 
 One by one, names are called, and items bequeathed: rare artifacts to estranged cousins, properties to minor dignitaries, and pouches of gold to former colleagues. It’s a parade of treasures and rewards, punctuated by gasps of envy and the occasional flash of anger from those who feel they deserved more. A particular painting causes a minor uproar, with a group of siblings practically frothing at the mouth as it’s handed to a distant friend instead.
 
 Finally, the judge reaches the more significant items—the estate and the real wealth. He names Derek among the beneficiaries, to the surprise and murmur of the crowd, bestowing upon him a sprawling, secluded manor on the outskirts of the city. A few curious glances turn Derek’s way, some envious, others puzzled. The announcement of Derek’s inheritance is met with a polite smattering of applause… and more than a few narrowed eyes.
 
-The ceremony concludes with the judge calling forth a final few names—the ranger and Tiefling included—each left with something far more ambiguous than the others: deeds, vague titles, or instructions that leave everyone guessing. It’s a carefully orchestrated game, designed to pique curiosity and spark whispers. And it works. As the judge steps down from the dais, the room erupts into murmurs, and the assembled guests begin to rise.
+The ceremony concludes with the judge calling forth a final few names—the ranger and Tiefling included—each left with something far more ambiguous than the others: 
+
+* ***Stone Crest.*** The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.
+* ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
+* ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
+* ***Sunrise Medallion.*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
+* ***Amber Shard.*** The shard glows with amber light and tugs its cord in the direction of Death House.
+* ***Wolf's Tooth.*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
+* ***Crumpled Page.*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
+* ***Tattered Banner.*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
+* ***Electrum Coin.*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
+* ***Angel's Feather.*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
+* ***Raven's Feather.*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
+* ***Wanderer's Scarf.*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
 
 You can practically _feel_ the atmosphere shift as people start making their way to the side chamber—whispering, smirking, or shooting furtive glances at the few chosen beneficiaries. The after-party is where the real maneuvering will begin.
