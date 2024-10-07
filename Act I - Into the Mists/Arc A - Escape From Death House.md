@@ -37,7 +37,7 @@ If one or more of your players are using the [[Running the Adventure#Adventure H
 <p>Here, then, you find yourselves: huddled in the darkness amongst strangers, while joy and mirth dance just out of reach.</p>
 </div>
 
-Invite the players to describe each character's appearance and countenance, how they’ve positioned themselves, and how they’ve arranged their belongings.
+Invite the players to describe each character's appearance and countenance, how they’ve positioned themselves, and how they’ve *arranged* their belongings.
 
 When the players have finished introducing themselves, read:
 
