@@ -82,21 +82,10 @@ _Quirk_: Professor Windwhisper has an uncanny ability to _predict things moments
 _Department_: **Necrobiology & Applied Hematurgy**  
 _Description_: A gaunt, severe-looking man with slicked-back black hair and a piercing gaze. Professor Grimward specializes in the study of life and death, delving into the borderline fields of necromancy and blood magic (strictly for research purposes, of course). Dressed in stark black robes with crimson trim, he looks more like an undertaker than a scholar, and there’s an unspoken rule among the students not to attend his office hours alone. He rarely speaks above a whisper, but when he does, his words carry a chilling weight. He stands apart from the rest of the attendees, arms folded, watching the proceedings with a detached, clinical interest.
 _Quirk_: Despite his grim demeanor, Grimward has an unexpected _obsession with puns and morbid jokes_. He finds dark humor in everything—“Ah, just another grave situation”—and often leaves students and colleagues baffled by his unexpected levity amid serious discussions. He never smiles, though, so it’s impossible to tell if he’s joking or serious.
-- **"Life is a _grave_ matter, but I always try to keep it _light_—you know, for _undead_ spirits!"**
-- **"People say I’m a _bit morbid_, but I like to think of it as having a _healthy curiosity_ about what lies _beyond_."**
-- **"You know, it’s all about _balance_—too much life or too much death can really throw off your _hematology_!"**
-- **"I once tried to make a _skeleton_ laugh, but I guess I just didn’t have the _guts_!"**
-- **"Necromancy is a _dying art_, but I’m here to make it _revive_—with a little practice, of course!"**
-- **"I always say, if you can’t find the _soul_ of a problem, it’s probably time to _raise_ some questions!"**
-
-- **"Some people think my studies are a little _dead on arrival_, but I find them _thrilling_! It’s like living on the _edge of the grave_!"**
-    
-- **"Ah, the beauty of necromancy—_death_ is just another way of saying you’re not _living_ life to the fullest!"**
-    
-- **"I had a friend who wanted to become a _mummy_, but he just couldn’t handle the _wrapping_!"**
-    
-- **"Remember, my dear students, in the world of magic, sometimes you have to _dig deep_ to uncover the _bones of truth_!"**
-
+- "Life is a grave matter, but I always try to keep it light—you know, for undead spirits!"
+- "Necromancy is a dying art, but I’m here to make it revive—with a little practice, of course!"
+- "I always say, if you can’t find the soul of a problem, it’s probably time to raise some questions!"
+- "Ah, the beauty of necromancy—death is just another way of saying you’re not living life to the fullest!"
 ### 5. **Lady Claribel Thorne**
 
 _Role_: **Potion Magnate & Society Matriarch**  
@@ -126,3 +115,6 @@ _Quirk_: Tends to let others speak first, silently watching with an unsettling i
 _Role_: **Local Bard & Occasional Cat Burglar**  
 _Description_: A flamboyant gnome with a shock of curly orange hair, a bright patchwork vest, and a wide-brimmed hat adorned with a single, absurdly long feather. Barnaby is equal parts entertainer and rogue, flitting through the room with the grace of a dancer and the mischief of a fox. His nimble fingers are just as skilled at playing the lute as they are at lifting purses, and he seems to know every secret, rumor, and backdoor deal in the city. He has a laugh that’s infectious and a smile that never quite reaches his eyes. Many people know him, but few trust him—if Barnaby’s interested in you, there’s usually trouble close behind.  
 _Quirk_: Frequently bursts into impromptu verse or ballads about the people around him, using his songs to praise, insult, or reveal uncomfortable truths—all with a grin on his face.
+
+### After the Party
+Head to [[Arc A - Escape From Death House]]
