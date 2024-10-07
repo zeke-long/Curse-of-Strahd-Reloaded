@@ -1,7 +1,7 @@
 # Companions
 
 # Death House
-### Rosavalda "Rose" Durst
+### Rosavalda "Rose" Durst - [[Rose]]
 **Roleplaying Information**
 ***Resonance.*** Rose should inspire sympathy for her insecurities and fears, endearment for her dedication to Thorn, and gratitude for her earnest efforts to aid the players.
 
