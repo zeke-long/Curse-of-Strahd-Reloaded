@@ -49,9 +49,12 @@ Finally, the judge reaches the more significant items—the estate and the real 
 
 The ceremony concludes with the judge calling forth a final few names—the ranger and Tiefling included—each left with something far more ambiguous than the others: 
 
-"For March's Character something from this table and for Mia's Character, the same". It was said that there is something to do  
+"For March's Character something from this table and for Mia's Character, the same. These relics are not mere gifts, but _keys_. Their true nature, Mister Aberford insisted, would only reveal itself at a place most dear to him—_the estate of Greystone Manor_, now in the care of Derek—where all will be made clear."
+
 ![[Arc A - Escape From Death House#^BarovianRelicsTable]]
 
 You can practically _feel_ the atmosphere shift as people start making their way to the side chamber—whispering, smirking, or shooting furtive glances at the few chosen beneficiaries. 
+
+"And now I invite you to the celebration", the judge waves his arms and a curtain drops behind him revealing a wide reception hall. 
 
 ### After Party
