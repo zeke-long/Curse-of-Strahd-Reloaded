@@ -1,0 +1,1 @@
+https://dnd5e.wikidot.com/sorcerer:wild-magic - but Wild Magic happens way more and also forces a race change if the user is a [[Changeling (Custom)]]

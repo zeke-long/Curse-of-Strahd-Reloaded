@@ -1,0 +1,1 @@
+https://dnd5e.wikidot.com/lineage:changeling - but with lack of powers about changing. They change when using [[Wild Magic (Custom)]]. It is uncontrolled. 

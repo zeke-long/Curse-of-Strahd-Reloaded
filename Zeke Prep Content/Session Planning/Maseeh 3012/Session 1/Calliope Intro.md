@@ -1,0 +1,9 @@
+[[Calliope]]'s life as the daughter of a farmer was ordinary, and she enjoyed the camaraderie of her friends and the warmth of her close-knit community. But one fateful morning, the sun rose on an unimaginable change. As she opened her eyes, she found herself transformed into a towering Goliath, standing at an imposing height of seven feet.
+
+Confused and frightened, Calliope stumbled around her home, unable to comprehend the inexplicable change that had befallen her. As news of the transformation spread through the village, fear and misunderstanding took hold. The people of Willowbrook, once her friends and neighbors, now viewed her as a stranger, an outcast to be driven away.
+
+The village that once embraced her was now afraid of the very sight of her, and the acceptance and love she once knew turned to scorn and rejection. The weight of the villagers' disapproval became too much for Calliope to bear, and they forced her out, believing she brought a cursed presence upon their homes.
+
+Heartbroken and determined, Calliope set out on a quest to prove her worth and lift the curse that had taken her humanity. She believed that if she could end the curse of Strahd, the malevolent lord of Barovia, the villagers of Willowbrook would welcome her back with open arms.
+
+As she entered the dread realm of Barovia, Calliope's hope and resolve were tested at every turn. The chilling mists seemed to mirror the uncertainty and isolation she felt in her heart. Yet, she pressed on, with the memories of her family and friends from Willowbrook driving her forward. With a longing for belonging and the courage of a fighter, Calliope ventured forth, hoping to save her village and find her place in a world forever altered by the curse of Strahd.

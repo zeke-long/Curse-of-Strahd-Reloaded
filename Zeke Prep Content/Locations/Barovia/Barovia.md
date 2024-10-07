@@ -1,0 +1,33 @@
+```leaflet
+id: barovia-world-region
+image: [[04 - Map of Barovia - Color, No Labels or Location Icons.webp]]
+```
+
+[[Random Barovia Encounter]]
+
+A. [[Old Svalich Road]]
+B. [[Gates of Barovia]]
+C. [[Svalich Woods]]
+D. [[River Ivlis]]
+E. [[Village of Barovia]]
+F. [[River Ivlis Crossroads]]
+G. [[Tser Pool Encampment]]
+H. [[Tser Falls]]
+I. [[Black Carriage]]
+J. [[Gates of Ravenloft]]
+K. [[Castle Ravenloft]]
+L. [[Lake Zarovich]]
+M. [[Mad Mage of Mount Baratok]]
+N. [[Vallaki]]
+O. [[Old Bonegrinder]]
+P. [[Luna River Crossroads]]
+Q. [[Argynvostholt]]
+R. [[Raven River Crossroads]]
+S. [[Krezk]]
+T. [[Tsolenka Pass]]
+U. [[Ruins of Berez]]
+V. [[Van Richten's Tower]]
+W. [[The Wizard of Wines]]
+X. [[Amber Temple]]
+Y. [[Yester Hill]]
+Z. [[Werewolf Den]]

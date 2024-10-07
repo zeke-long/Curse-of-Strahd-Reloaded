@@ -1,0 +1,2 @@
+## What to Read
+*You see a weatherworn signpost next to the road. The three arms of the sign point along the three branches of the road. The arm pointing north reads [[Krezk]], and through the woods you can see an arching stone bridge spanning a river. The arm pointing east reads [[Vallaki]], and the road slopes up gradually in that direction. The arm pointing southwest reads [[The Wizard of Wines]]. The road slopes gently downward in that direction.*

@@ -1,0 +1,527 @@
+{
+  "mapMarkers": [
+    {
+      "id": "barovia-world-region",
+      "lastAccessed": 1690766877591,
+      "markers": [
+        {
+          "id": "ID_ab5a787b1b2a",
+          "type": "default",
+          "loc": [
+            -4.342041015625,
+            11.31640625
+          ],
+          "link": "Old Svalich Road",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_191ae9b848f8",
+          "type": "default",
+          "loc": [
+            -4.816650390625,
+            10.591796875
+          ],
+          "link": "Svalich Woods",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79da4b6afada",
+          "type": "default",
+          "loc": [
+            -4.342041015625,
+            10.982421875
+          ],
+          "link": "Gates of Barovia",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9eb19c86bba",
+          "type": "default",
+          "loc": [
+            -5.642822265625,
+            10.234375
+          ],
+          "link": "River Ivlis",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a78aa28dbca",
+          "type": "default",
+          "loc": [
+            -5.37158203125,
+            8.89453125
+          ],
+          "link": "River Ivlis",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a86a7829484b",
+          "type": "default",
+          "loc": [
+            -4.86767578125,
+            9.12109375
+          ],
+          "link": "Village of Barovia",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58daca6a4848",
+          "type": "default",
+          "loc": [
+            -5.5390625,
+            7.8984375
+          ],
+          "link": "River Ivlis Crossroads",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.674,
+            0.709
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f86bfbcb094a",
+          "type": "default",
+          "loc": [
+            -4.8046875,
+            7.5546875
+          ],
+          "link": "Tser Pool Encampment",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6446666666666667,
+            0.615
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa7be90ba8e9",
+          "type": "default",
+          "loc": [
+            -4.2421875,
+            7.0703125
+          ],
+          "link": "Tser Falls",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6033333333333334,
+            0.543
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a6889e8b8bb",
+          "type": "default",
+          "loc": [
+            -4.0634765625,
+            8.578125
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9aa7b680b88",
+          "type": "default",
+          "loc": [
+            -3.9619140625,
+            8.203125
+          ],
+          "link": "Gates of Ravenloft",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19ca08f9090a",
+          "type": "default",
+          "loc": [
+            -3.7041015625,
+            7.0625
+          ],
+          "link": "Black Carriage",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5809683a4aab",
+          "type": "default",
+          "loc": [
+            -3.2900390625,
+            5.6484375
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29295bfa8aba",
+          "type": "default",
+          "loc": [
+            -2.70361328125,
+            4.53125
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ba8c8091a18",
+          "type": "default",
+          "loc": [
+            -1.9697265625,
+            4.765625
+          ],
+          "link": "Lake Zarovich",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_faa8fb89582a",
+          "type": "default",
+          "loc": [
+            -1.40625,
+            3.6328125
+          ],
+          "link": "Mad Mage of Mount Baratok",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.31,
+            0.18
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b918eacb988b",
+          "type": "default",
+          "loc": [
+            -2.81298828125,
+            3.8671875
+          ],
+          "link": "Luna River Crossroads",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa89fa1bbb49",
+          "type": "default",
+          "loc": [
+            -4.88720703125,
+            3.66796875
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0beb999b2a69",
+          "type": "default",
+          "loc": [
+            -2.7041015625,
+            2.3828125
+          ],
+          "link": "Raven River Crossroads",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aba909f8595a",
+          "type": "default",
+          "loc": [
+            -4.2509765625,
+            3.359375
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c85bc9b858aa",
+          "type": "default",
+          "loc": [
+            -6.0009765625,
+            2.671875
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_985b0b7ad929",
+          "type": "default",
+          "loc": [
+            -5.0087890625,
+            0.5390625
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb1be968ea2b",
+          "type": "default",
+          "loc": [
+            -3.7978515625,
+            0.921875
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59298888798b",
+          "type": "default",
+          "loc": [
+            -2.4462890625,
+            0.96875
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da084b4be8eb",
+          "type": "default",
+          "loc": [
+            -1.8681640625,
+            1.796875
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8ba089a7938",
+          "type": "default",
+          "loc": [
+            -2.3525390625,
+            2.6328125
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_db3bdaf92b58",
+          "type": "default",
+          "loc": [
+            -6.3916015625,
+            4.125
+          ],
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_297b8b1a191b",
+          "type": "default",
+          "loc": [
+            -4.828369140625,
+            9.890625
+          ],
+          "link": "Random Barovia Encounter",
+          "layer": "%5B%5B04%20-%20Map%20of%20Barovia%20-%20Color%2C%20No%20Labels%20or%20Location%20Icons.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Barovia/Barovia.md",
+        "Session Planning/Session 1/Session 1.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.7.2",
+  "version": {
+    "major": 5,
+    "minor": 7,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}
