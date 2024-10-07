@@ -27,11 +27,11 @@ Among the gathered crowd, there are those who wear expressions of genuine grief,
 
 There is an immense mahogany desk set dead center on the dais, piled high with scrolls, documents, and what looks suspiciously like a small chest—probably filled with whatever wealth Mister Aberford left behind. It’s a bequeathment and a spectacle rolled into one, with every eye in the chamber fixed on that desk, waiting to see who will walk away with the spoils.
 
-But your gaze is drawn to two other people seated near the front, standing out even amidst this sea of mourners and opportunists.
+As all of you are looking around at this crowd of people, your gaze is drawn to two other people seated near the front, standing out even amidst this sea of mourners and opportunists.
 
-To the left of the dais, lounging casually in a chair that looks almost laughably too large for her, is a tall, striking woman dressed in rugged leathers. Her boots are stained with mud, and her gear is clearly meant for the wilderness, not the polished floors of a courthouse. A longbow leans beside her, looking dangerously out of place among the well-dressed crowd. Yet she seems completely at ease, one leg draped lazily over the armrest of her chair, her gaze sweeping the room with a look of relaxed amusement.
+To the left of the dais, lounging casually in a chair that looks almost laughably too large for her, is a tall, striking woman dressed in rugged leathers. Her boots are stained with mud, and her gear is clearly meant for the wilderness, not the polished floors of a courthouse. A longbow leans beside her, looking dangerously out of place among the well-dressed crowd. **March, can you describe what they see?**
 
-Across from her, a stark contrast, sits a crimson-skinned Tiefling woman, hunched forward as if the very air around her were suffocating. Her hands clutch at the edge of her seat, fingers twitching nervously against the wood. Every so often, her gaze flickers upward, scanning the crowd with a haunted intensity, but she quickly looks away whenever anyone meets her eyes. There’s a strange, raw tension about her—like she’s expecting to be called out at any moment and would crumble the second someone spoke her name.
+On the other side of the aisle in stark contrast, sits a **crimson-skinned** tiefling woman, hunched forward as if the very air around her were suffocating. Her hands clutch at the edge of her seat, fingers twitching nervously against the wood. Every so often, her gaze flickers upward, scanning the crowd with a haunted intensity, but she quickly looks away whenever anyone meets her eyes. There’s a strange, raw tension about her—like she’s expecting to be called out at any moment and would crumble the second someone spoke her name. Mia, can you s
 
 The judge raps his gavel once, twice, drawing the room’s attention as he leans forward, peering over the stacks of paper with a stern look.
 
