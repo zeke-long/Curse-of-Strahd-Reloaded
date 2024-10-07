@@ -49,8 +49,9 @@ Finally, the judge reaches the more significant items—the estate and the real 
 
 The ceremony concludes with the judge calling forth a final few names—the ranger and Tiefling included—each left with something far more ambiguous than the others: 
 
-"For March's Character something from this table and for Mia's Character, " 
+"For March's Character something from this table and for Mia's Character, the same". It was said that there is something to do  
 ![[Arc A - Escape From Death House#^BarovianRelicsTable]]
 
+You can practically _feel_ the atmosphere shift as people start making their way to the side chamber—whispering, smirking, or shooting furtive glances at the few chosen beneficiaries. 
 
-You can practically _feel_ the atmosphere shift as people start making their way to the side chamber—whispering, smirking, or shooting furtive glances at the few chosen beneficiaries. The after-party is where the real maneuvering will begin.
+### After Party
