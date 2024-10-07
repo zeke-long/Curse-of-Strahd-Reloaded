@@ -1,5 +1,5 @@
 ## What to Read
-*A wide hall runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is a longsword (nonmagical) with a windmill cameo worked into the hilt. The wood-pan­eled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. 
+*A wide hall runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is Hanging above the mantelpiece is a wood-framed portrait of the Durst family: [[Gustav Durst]] and [[Elizabeth Durst]] with their two smiling children, [[Rose]] and [[Thorn]]. Cra­dled in the father's arms is a swaddled baby.. The wood-pan­eled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. 
 A cloakroom on the back wall houses several long dark cloaks and a top hat.*
 ^WhatToRead
 
