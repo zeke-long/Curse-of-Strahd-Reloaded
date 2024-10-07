@@ -27,7 +27,7 @@ If the players kill the monster, the house begins to collapse, forcing them to f
 > 
 > If you wish to minimize your workload, do your best to avoid making any changes or additions to this guide. Doing so is likely to alter how the players interface with and approach its narrative and gameplay, disturbing load-bearing pillars that may be difficult to notice without re-reading the full, complete guide multiple times. (For example, increasing distances between the Barovian settlements makes multiple quests in Acts II and III impossible to complete without a comprehensive overhaul of the entire campaign's timeline.) Any modifications—such as changes to deadlines, distances, statblocks, character motivations, or events—are made at the DM's own risk, and may lead to TPKs, wild divergences, or unsatisfying storylines.
 ## A1a. The Nightmare’s Bridle
-If one or more of your players are using the [[Running the Adventure#Adventure Hooks|Barovian Relics]] hook, read the following text. Otherwise, proceed to [[#A2. Death House]] below.
+Read the following 
 
 <div class="description">
 <p>It’s the evening before Highharvesttide, and a storm has descended over Daggerford, with dark clouds pouring cascades of rain down upon the town below. Despite the weather, however, the town buzzes with anticipation of the impending falltime festival, each home filled with warmth and joy. Bright, cheery candlelight twinkles from every window, and the sounds of song and dance echo throughout the wet and muddy streets.</p>
@@ -49,33 +49,21 @@ When the players have finished introducing themselves, read:
 
 One by one, the players’ relics then react as follows, in the following order.
 
-| d12 | Treasure             | Death House Reaction                                                                                                                       |
-| --- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | Stone Crest of a Bat | The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House. |
-| 2   | A Broken Blade       |                                                                                                                                            |
-| 3   | A Dragon's Scale     |                                                                                                                                            |
-| 4   | Sunrise Medallion    |                                                                                                                                            |
-| 5   | Wolf's Tooth         |                                                                                                                                            |
-| 6   | Crumpled Paper       |                                                                                                                                            |
-| 7   | Tattered Banner      |                                                                                                                                            |
-| 8   | Electrum Coin        |                                                                                                                                            |
-| 9   | Angel's Feather      |                                                                                                                                            |
-| 10  | Raven's Feat         |                                                                                                                                            |
-| 11  |                      |                                                                                                                                            |
-| 12  | Roll Again           |                                                                                                                                            |
-
-
-* ***Broken Blade.*** The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.
-* ***Dragon's Scale.*** The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.
-* ***Sunrise Medallion.*** The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.
-* ***Amber Shard.*** The shard glows with amber light and tugs its cord in the direction of Death House.
-* ***Wolf's Tooth.*** The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.
-* ***Crumpled Page.*** The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House.
-* ***Tattered Banner.*** The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.
-* ***Electrum Coin.*** The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.
-* ***Angel's Feather.*** The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.
-* ***Raven's Feather.*** The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.
-* ***Wanderer's Scarf.*** The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.
+| d12 | Treasure                 | Death House Reaction                                                                                                                                              |
+| --- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Stone Crest of a Bat     | The crest emits a low hum and smells of pine needles and earthy soil, which both grow stronger when the crest is moved toward Death House.                        |
+| 2   | A Broken Blade           | The blade emits a high-pitched hum and begins to tremble violently, spinning like a compass needle in the direction of Death House.                               |
+| 3   | A Dragon's Scale         | The scale burns icy cold, one end glowing with a bright, silver light in the direction of Death House.                                                            |
+| 4   | Sunrise Medallion        | The medallion shines with a warm, golden glow, emitting rays of bright light in the direction of Death House.                                                     |
+| 5   | Wolf's Tooth             | The tooth lengthens, glowing with silver moonlight, and tugs its cord in the direction of Death House.                                                            |
+| 6   | Crumpled Paper           | The ink on the page glows with amber light, the runes reshaping themselves into a map that shows the page's location—and an arrow that guides toward Death House. |
+| 7   | Tattered Banner          | The sound of war-drums fills the air, and the banner blows in an unseen wind in the direction of Death House.                                                     |
+| 8   | Electrum Coin            | The coin lands on its edge and begins rolling across the muddy cobblestones in the direction of Death House.                                                      |
+| 9   | Angel's Feather          | The feather is swept away by an unseen wind, its barbs glimmering with golden light as it twirls through the streets toward Death House.                          |
+| 10  | Raven's Feather          | The feather is swept away by the wind, its shadow seeming to dance in the air, as it twirls through the streets toward Death House.                               |
+| 11  | Red Scarf                | The scarf is carried away by the wind, its patterns shifting and turning in the air as it whirls through the streets toward Death House.                          |
+| 12  | Roll Again (Amber Shard) | The shard glows with amber light and tugs its cord in the direction of Death House.                                                                               |
+^BarovianRelicsTable
 
 If the players give chase, read:
 
