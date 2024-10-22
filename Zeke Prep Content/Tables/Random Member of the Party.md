@@ -14,7 +14,7 @@
 | 3    | [[Valarie]]       |     |
 | 4    | [[Shalely]]       |     |
 | 5    | [[Norbert]]       |     |
-| 6    | [[Mia]]           |     |
+| 6    | [[Izanami Kira-Akuma]]           |     |
 ^partyMemberMKE
 
 
