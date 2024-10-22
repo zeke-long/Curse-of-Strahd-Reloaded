@@ -1,8 +1,8 @@
 ## Basic Info
 Alignment:
 Gender:
-Race:
-Class:
+Race: Tiefling
+Class: Fighter 1 / Rogue 1
 
 ## Character Traits
 
