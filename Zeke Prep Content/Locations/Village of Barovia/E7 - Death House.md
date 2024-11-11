@@ -37,6 +37,8 @@
 
 ## Adventure
 
+![[Pasted image 20241111151326.png]]
+![[Pasted image 20241111151514.png]]
 ### Floor 1
 - [[Death House - Area 1 - Entrance]]
 - [[Death House - Area 2 - Main Hall]]
